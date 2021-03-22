@@ -1,0 +1,164 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为网页资源信息",
+        " *   success字段为下载保存成功的资源;failures字段则为下载保存失败的资源URL",
+        " *   success字段为标准树结构，每一层资源父子关系、URL和保存路径清晰明了",
+        " *   本文件仅为记录检测到的网页资源以便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "success": [
+        {
+            "url": "https://baremarket.ca/collections/all-products/products/cereals",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/files/BM-RGB-Logomark_Aqua_1a4e9b98-543d-440d-a8c9-a5d2a318134a_300x300.png?v=1575005526",
+                    "path": "images/BM-RGB-Logomark_Aqua_1a4e9b98-543d-440d-a8c9-a5d2a318134a_300x300.png"
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/files/BM-RGB-Logomark_Aqua_1a4e9b98-543d-440d-a8c9-a5d2a318134a_210x.png?v=1575005526",
+                    "path": "images/BM-RGB-Logomark_Aqua_1a4e9b98-543d-440d-a8c9-a5d2a318134a_210x.png"
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/products/bare-market_cereal-grains_corn-flakes_300x300.jpg?v=1589788477",
+                    "path": "images/bare-market_cereal-grains_corn-flakes_300x300.jpeg"
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/products/bare-market_cereal-grains_oat-bran_300x300.jpg?v=1589788500",
+                    "path": "images/bare-market_cereal-grains_oat-bran_300x300.jpeg"
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/products/bare-market_cereal-grains_rice-crispies_300x300.jpg?v=1589788541",
+                    "path": "images/bare-market_cereal-grains_rice-crispies_300x300.jpeg"
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/products/bare-market_cereal-grains_corn-flakes_530x@2x.jpg?v=1589788477",
+                    "path": "images/bare-market_cereal-grains_corn-flakes_530x@2x.jpeg"
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/products/bare-market_cereal-grains_corn-flakes_110x110@2x.jpg?v=1589788477",
+                    "path": "images/bare-market_cereal-grains_corn-flakes_110x110@2x.jpeg"
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/products/bare-market_cereal-grains_oat-bran_110x110@2x.jpg?v=1589788500",
+                    "path": "images/bare-market_cereal-grains_oat-bran_110x110@2x.jpeg"
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/products/bare-market_cereal-grains_rice-crispies_110x110@2x.jpg?v=1589788541",
+                    "path": "images/bare-market_cereal-grains_rice-crispies_110x110@2x.jpeg"
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/files/BM-RGB-Logomark_Aqua_1a4e9b98-543d-440d-a8c9-a5d2a318134a_210x@2x.png?v=1575005526",
+                    "path": "images/BM-RGB-Logomark_Aqua_1a4e9b98-543d-440d-a8c9-a5d2a318134a_210x@2x.png"
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/t/9/assets/lazysizes.js?v=6844146596460774066",
+                    "path": "js/lazysizes.js"
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/t/9/assets/vendor.js?v=12185730235466316054",
+                    "path": "js/vendor.js"
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/t/9/assets/theme.js?v=10988549120612340489",
+                    "path": "js/theme.js"
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/t/9/assets/buddha-megamenu.js?v=1833364001738674046",
+                    "path": "js/buddha-megamenu.js"
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/t/9/assets/buddha-megamenu-wireframe.js?v=15808161202406921152",
+                    "path": "js/buddha-megamenu-wireframe.js"
+                },
+                {
+                    "url": "https://cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-d8a6f1446d67009c524ed4e68648800ba9082eb75548ee28e1050331cbe7ba28.js",
+                    "path": "js/load_feature-d8a6f1446d67009c524ed4e68648800ba9082eb75548ee28e1050331cbe7ba28.js"
+                },
+                {
+                    "url": "https://cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js",
+                    "path": "js/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js"
+                },
+                {
+                    "url": "https://cdn.codeblackbelt.com/js/modules/frequently-bought-together/main.min.js?shop=baremarket.myshopify.com",
+                    "path": "js/main.min.js"
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/t/9/assets/theme.scss.css?v=2302545078726318201",
+                    "path": "css/theme.scss.css",
+                    "children": [
+                        {
+                            "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/t/9/assets/ajax-loader.gif?v=4135686330247201572",
+                            "path": "images/ajax-loader.gif"
+                        },
+                        {
+                            "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/t/9/assets/ico-select.svg?v=1206820173969048361",
+                            "path": "images/ico-select.svg"
+                        }
+                    ]
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/t/9/assets/buddha-megamenu.css?v=13879927216657973242",
+                    "path": "css/buddha-megamenu.css",
+                    "children": [
+                        {
+                            "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/fonts/fontawesome-webfont.eot?v=4.6.2",
+                            "path": "fonts/fontawesome-webfont.eot"
+                        },
+                        {
+                            "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/fonts/fontawesome-webfont.eot?#iefix&v=4.6.2",
+                            "path": "fonts/fontawesome-webfont_1.eot"
+                        },
+                        {
+                            "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/fonts/fontawesome-webfont.woff2?v=4.6.2",
+                            "path": "fonts/fontawesome-webfont.woff2"
+                        },
+                        {
+                            "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/fonts/fontawesome-webfont.woff?v=4.6.2",
+                            "path": "fonts/fontawesome-webfont.woff"
+                        },
+                        {
+                            "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/fonts/fontawesome-webfont.ttf?v=4.6.2",
+                            "path": "fonts/fontawesome-webfont.ttf"
+                        },
+                        {
+                            "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/fonts/fontawesome-webfont.svg?v=4.6.2#fontawesomeregular",
+                            "path": "images/fontawesome-webfont.svg"
+                        }
+                    ]
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/files/BM-RGB-Logomark_Aqua_1a4e9b98-543d-440d-a8c9-a5d2a318134a_32x32.png?v=1575005526",
+                    "path": "images/BM-RGB-Logomark_Aqua_1a4e9b98-543d-440d-a8c9-a5d2a318134a_32x32.png"
+                },
+                {
+                    "url": "http://cdn.shopify.com/s/files/1/0081/6853/8170/products/bare-market_cereal-grains_corn-flakes_1200x1200.jpg?v=1589788477",
+                    "path": "images/bare-market_cereal-grains_corn-flakes_1200x1200.jpg"
+                },
+                {
+                    "url": "http://cdn.shopify.com/s/files/1/0081/6853/8170/products/bare-market_cereal-grains_oat-bran_1200x1200.jpg?v=1589788500",
+                    "path": "images/bare-market_cereal-grains_oat-bran_1200x1200.jpg"
+                },
+                {
+                    "url": "http://cdn.shopify.com/s/files/1/0081/6853/8170/products/bare-market_cereal-grains_rice-crispies_1200x1200.jpg?v=1589788541",
+                    "path": "images/bare-market_cereal-grains_rice-crispies_1200x1200.jpg"
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/products/bare-market_cereal-grains_corn-flakes_1200x1200.jpg?v=1589788477",
+                    "path": "images/bare-market_cereal-grains_corn-flakes_1200x1200_1.jpg"
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/products/bare-market_cereal-grains_oat-bran_1200x1200.jpg?v=1589788500",
+                    "path": "images/bare-market_cereal-grains_oat-bran_1200x1200_1.jpg"
+                },
+                {
+                    "url": "https://cdn.shopify.com/s/files/1/0081/6853/8170/products/bare-market_cereal-grains_rice-crispies_1200x1200.jpg?v=1589788541",
+                    "path": "images/bare-market_cereal-grains_rice-crispies_1200x1200_1.jpg"
+                }
+            ]
+        }
+    ],
+    "failures": []
+}
